@@ -15,7 +15,7 @@
       },
       "PREFIX": {
         "description": "Bot command prefix, (e.g, . , ! @ etc",
-        "value":"#",
+        "value":".",
         "required": true
         
       },
@@ -30,13 +30,13 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "#"
+      "value": "."
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "private"
+      "value": "public"
       
     },
     
